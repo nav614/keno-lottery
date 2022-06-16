@@ -1,4 +1,6 @@
-# Keno Lottery `React` `TypeScript` `Redux`
+# Keno Lottery
+
+### `React` `TypeScript` `Redux`
 
 ## Available Scripts
 
