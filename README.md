@@ -2,7 +2,8 @@
 
 ### `React` `TypeScript` `Redux`
 
-![Uploading Screen Recording 2022-06-16 at 13.15.56.gif…]()
+![Screen Recording 2022-06-16 at 13 15 56](https://user-images.githubusercontent.com/48523627/174059806-d6d2dcb5-112e-48a1-bb2e-765cd3360177.gif)
+
 
 ## Available Scripts
 
