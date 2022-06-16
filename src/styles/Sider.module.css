@@ -1,0 +1,15 @@
+.sider {
+    padding-left: 20px;
+    border-color: #c0c0c0 !important;
+    border-left-style: solid;
+    /* border-style: solid; */
+    border-width: 1px;
+}
+
+.sider button {
+    width: 120px;
+}
+
+.inputNumber {
+    width: 90px !important;
+}
