@@ -2,6 +2,8 @@
 
 ### `React` `TypeScript` `Redux`
 
+![Uploading Screen Recording 2022-06-16 at 13.15.56.gif…]()
+
 ## Available Scripts
 
 In the project directory, you can run:
